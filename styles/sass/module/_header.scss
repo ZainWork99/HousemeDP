@@ -1,0 +1,11 @@
+.bgr {
+    background-color: red;
+}
+
+.header-container{
+ background-color:green;
+ padding:1rem;
+ &-pappi{
+     background-color:yellow;
+ }
+}
